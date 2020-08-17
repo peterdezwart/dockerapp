@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+dockerapp.egg-info/PKG-INFO
+dockerapp.egg-info/SOURCES.txt
+dockerapp.egg-info/dependency_links.txt
+dockerapp.egg-info/requires.txt
+dockerapp.egg-info/top_level.txt
+package1/__init__.py
+package1/module1.py
+tests/test_module1.py

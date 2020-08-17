@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: dockerapp
+Version: 0.0.1
+Summary: test package for deploying using docker
+Home-page: UNKNOWN
+Author: Peter de Zwart
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Provides-Extra: lint
+Provides-Extra: tests

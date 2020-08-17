@@ -1,0 +1,5 @@
+
+[lint]
+
+[tests]
+pytest==5.4.2
